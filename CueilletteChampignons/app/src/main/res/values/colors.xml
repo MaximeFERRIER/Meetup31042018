@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#322f20</color>
+    <color name="colorPrimaryDark">#23231a</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="commestible">#988f2a</color>
+    <color name="veneneu">#fe5f00</color>
+</resources>

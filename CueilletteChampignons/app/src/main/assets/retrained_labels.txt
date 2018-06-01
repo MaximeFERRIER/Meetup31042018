@@ -1,0 +1,6 @@
+commestible amanite des cesar
+commestible bolet pieds rouge
+commestible chanterelle
+veneneux amanite tue mouche
+veneneux entolome livide
+veneneux helevelle a pieds blanc

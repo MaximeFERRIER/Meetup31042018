@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cueillette de champignons</string>
+    <string name="nouvellePhoto">Nouvelle photo</string>
+
+    <string name="commestible">Comestible</string>
+    <string name="veneneu">Vénéneux</string>
+    <string name="champignon">Champignon</string>
+    <string name="indiceConfiance">Indice de confiance</string>
+</resources>
